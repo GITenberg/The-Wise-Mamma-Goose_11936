@@ -1,0 +1,26 @@
+_repo: The-Wise-Mamma-Goose_11936
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Herr, Charlotte B. (Charlotte Bronte)
+    alias: Herr, Charlotte Bronte
+    birthdate: 1875
+    deathdate: 1963
+    gutenberg_agent_id: '4141'
+    url: http://www.gutenberg.org/2009/agents/4141
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11936'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Geese -- Juvenile fiction'
+- GITenberg
+title: The Wise Mamma Goose
+url: http://www.gutenberg.org/ebooks/11936
